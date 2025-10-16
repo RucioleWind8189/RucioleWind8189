@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 
+## Skills
+
+- **Languages**: JavaScript, Python, Java
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, Docker, VS Code
