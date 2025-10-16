@@ -1,25 +1,22 @@
-## Hi there 👋
+## Hi there 
 
-**RucioleWind8189/RucioleWind8189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RucioleWind8189/ルシオルといいます
+実績より先にに自分のサイトを作りたがる人間です
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- ![Sora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sora123&show_icons=true&theme=tokyonight)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+映像・イラスト・3DCG・etc...
 
 ## Skills
 
 - **Languages**: JavaScript, Python, Java
 - **Frameworks**: React, Node.js, Django
 - **Tools**: Git, Docker, VS Code
+
+## Languages
+・Python
+・JavaScript
+
+## Links
+- Youtube ： https://youtube.com/@ruciolewind8189?si=FCkEIaa0Q9_j6S9p
+- twitter ： twitter.com/Ruci_wind
+- Portfolio : coming soon 
+
