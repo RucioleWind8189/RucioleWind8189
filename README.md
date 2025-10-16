@@ -7,12 +7,18 @@ RucioleWind8189/ルシオル です。
 
 映像・イラスト・3DCG・etc...  
 
-[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!?&string=#fffff0)](https://github.com/kawarimidoll/typograssy)  
+[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!&string=#fffff0)](https://github.com/kawarimidoll/typograssy)  
 ![](https://komarev.com/ghpvc/?username=ruciolewind8189&color=yellow)
+
 ## Languages
 ![](https://skillicons.dev/icons?i=html,js,python)
 
 ## Links
 - [Youtube] ： https://youtube.com/@ruciolewind8189?si=FCkEIaa0Q9_j6S9p
 - [twitter] ： https://twitter.com/Ruci_wind
+- [Qiita]   ： https://qiita.com/ruciolewind8189
 - [Portfolio] ： coming soon 
+
+
+
+last change  ： 2025/10/16
