@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - ![Sora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sora123&show_icons=true&theme=tokyonight)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 
