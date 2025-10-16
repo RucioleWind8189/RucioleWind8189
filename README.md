@@ -18,11 +18,7 @@ RucioleWind8189/ルシオル です。
 - [twitter] ： https://twitter.com/Ruci_wind
 - [Portfolio] ： coming soon 
 
-- **バッジ**: Shields.ioを使ってバッジを追加し、スキルやステータスを表示できます。
-- **GIF**: 楽しいアニメーションや画像を追加して、プロフィールを魅力的に見せましょう。
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=username&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
-```markdown
-## Badges
-
-![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)
+<img src="https://github-profile-trophy.vercel.app/?username=username&theme=juicyfresh&no-bg=true" />
