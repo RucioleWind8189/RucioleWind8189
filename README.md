@@ -6,7 +6,7 @@ RucioleWind8189/ルシオル です。
 いつか自鯖もたてたい。  
 
 映像・イラスト・3DCG・etc...  
-[![typograssy](https://typograssy.deno.dev/api?text="Ruciole"は蛍を表すフランス語の"Luciole"からきています!__&l0=ffffff&l1=70a7ad&l2=56979f&l3=3c8791&l4=227784&speed=90)](https://github.com/kawarimidoll/typograssy)  
+[![typograssy](https://typograssy.deno.dev/api?text="Ruciole"は蛍を表すフランス語の"Luciole"からきています!__&l0=ffffff&l1=95ffef&l2=72ffec&l3=4effe9&l4=37ffe7&speed=90)](https://github.com/kawarimidoll/typograssy)  
 <!--青色でくるくるするやつ。さわやか-
 [![typograssy](https://typograssy.deno.dev/api?text="Ruciole"は蛍を表すフランス語の"Luciole"からきています!__&l0=ffffff&l1=86dbfb&l2=5ecffc&l3=43c7fd&l4=0db7ff&speed=90)](https://github.com/kawarimidoll/typograssy)  
 <!--
