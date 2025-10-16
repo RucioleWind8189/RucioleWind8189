@@ -17,7 +17,7 @@ RucioleWind8189/ルシオル です。
 [![typograssy](https://typograssy.deno.dev/api?text="Ruciole"は蛍を表すフランス語の"Luciole"からきています!&l0=ffffff&l1=faef75&l2=f8ea4e&l3=f7e527&l4=f5e000&speed=90)](https://github.com/kawarimidoll/typograssy)  
 -->
 
-![](https://komarev.com/ghpvc/?username=ruciolewind8189&color=yellow)
+![](https://komarev.com/ghpvc/?username=ruciolewind8189&color=blue)
 
 ## Languages
 ![](https://skillicons.dev/icons?i=html,js,python)
