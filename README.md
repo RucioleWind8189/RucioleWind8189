@@ -14,9 +14,9 @@ RucioleWind8189/ルシオル です。
 ![](https://skillicons.dev/icons?i=html,js,python)
 
 ## Links
-- [Youtube@RucioleWind8189](https://youtube.com/@ruciolewind8189?si=FCkEIaa0Q9_j6S9p)
-- [twitter：@Ruci_wind](https://twitter.com/Ruci_wind)
-- [Qiita:@ruciolewind8189](https://qiita.com/ruciolewind8189)
+- Youtube：[@RucioleWind8189](https://youtube.com/@ruciolewind8189?si=FCkEIaa0Q9_j6S9p)
+- twitter：[@Ruci_wind](https://twitter.com/Ruci_wind)
+- Qiita：[@ruciolewind8189](https://qiita.com/ruciolewind8189)
 - [Portfolio] ： coming soon 
 
 
