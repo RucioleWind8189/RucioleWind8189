@@ -7,7 +7,7 @@ RucioleWind8189/ルシオル です。
 
 映像・イラスト・3DCG・etc...  
 
-[![typograssy](https://typograssy.deno.dev/api?text="Ruciole"は蛍を表すフランス語の"Luciole"からきています!&l0=ffffff&l1=287a94&l2=236b82&l3=1e5d71&l4=194e5f)](https://github.com/kawarimidoll/typograssy)  
+[![typograssy](https://typograssy.deno.dev/api?text="Ruciole"は蛍を表すフランス語の"Luciole"からきています!&l0=ffffff&l1=3297b8&l2=3090af&l3=2d88a6&l4=2b819d)](https://github.com/kawarimidoll/typograssy)  
 
 ![](https://komarev.com/ghpvc/?username=ruciolewind8189&color=yellow)
 
