@@ -7,6 +7,7 @@ RucioleWind8189/ルシオル です。
 
 映像・イラスト・3DCG・etc...  
 
+[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!)](https://github.com/kawarimidoll/typograssy)
 
 ## Languages
 ![](https://skillicons.dev/icons?i=html,js,python)
