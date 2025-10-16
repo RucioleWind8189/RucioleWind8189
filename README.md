@@ -29,7 +29,7 @@ RucioleWind8189/ルシオル です。
 - Qiita：[@ruciolewind8189](https://qiita.com/ruciolewind8189)
 - [Portfolio] ： coming soon 
 
-- Youtube：<a href="[https://ruci.dev](https://youtube.com/@ruciolewind8189?si=FCkEIaa0Q9_j6S9p)" target="_blank">[@RucioleWind8189]</a>
+- Youtube：<a href="https://youtube.com/@ruciolewind8189?si=FCkEIaa0Q9_j6S9p" target="_blank">[@RucioleWind8189]</a>
 
 
 
