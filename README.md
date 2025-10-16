@@ -5,7 +5,8 @@ RucioleWind8189/ルシオル です。
 サイトを公開するにはサーバーが必要？  
 いつか自鯖もたてたい。  
 
-映像・イラスト・3DCG・etc...  
+映像・イラスト・3DCG・etc...  　　
+
 [![typograssy](https://typograssy.deno.dev/api?text="Ruciole"は蛍を表すフランス語の"Luciole"からきています!__&l0=ffffff&l1=6bd1dc&l2=51c9d6&l3=36c1d1&l4=1bb8cc&speed=90&comment=Hallo%20World)](https://github.com/kawarimidoll/typograssy)  
 <!--青色でくるくるするやつ。さわやか-
 [![typograssy](https://typograssy.deno.dev/api?text="Ruciole"は蛍を表すフランス語の"Luciole"からきています!__&l0=ffffff&l1=86dbfb&l2=5ecffc&l3=43c7fd&l4=0db7ff&speed=90)](https://github.com/kawarimidoll/typograssy)  
