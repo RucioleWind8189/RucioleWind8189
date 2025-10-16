@@ -9,9 +9,9 @@ RucioleWind8189/ルシオル です。
 
 
 ## Languages
-・Python  
-・JavaScript  
-・HTML  
+- Python  
+- JavaScript  
+- HTML  
 
 ## Links
 - [Youtube] ： https://youtube.com/@ruciolewind8189?si=FCkEIaa0Q9_j6S9p
