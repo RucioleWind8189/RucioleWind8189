@@ -16,5 +16,5 @@ RucioleWind8189/ルシオル です。
 ## Links
 - [Youtube] ： https://youtube.com/@ruciolewind8189?si=FCkEIaa0Q9_j6S9p
 - [twitter] ： https://twitter.com/Ruci_wind
-- [Portfolio] : coming soon 
+- [Portfolio] ： coming soon 
 
