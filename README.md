@@ -28,10 +28,9 @@ RucioleWind8189/ルシオル です。
 ## Links
 - Youtube：[@RucioleWind8189](https://youtube.com/@ruciolewind8189?si=FCkEIaa0Q9_j6S9p)
 - twitter：[@Ruci_wind](https://twitter.com/Ruci_wind)
-<!--- Bluesky：[@Ruciole.bsky.social](https://bsky.app/profile/ruciole.bsky.social)=-->
 - Qiita：[@ruciolewind8189](https://qiita.com/ruciolewind8189)
 - [Portfolio] ： coming soon 
-
+<!--- Bluesky：[@Ruciole.bsky.social](https://bsky.app/profile/ruciole.bsky.social)=-->
 
 
 last change  ： 2025/10/16
