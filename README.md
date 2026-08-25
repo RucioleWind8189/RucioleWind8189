@@ -20,7 +20,7 @@ RucioleWind8189/ルシオル です。
 ![](https://komarev.com/ghpvc/?username=ruciolewind8189&color=blue)
 
 ## Languages
-![](https://skillicons.dev/icons?i=html,js,python)
+![](https://skillicons.dev/icons?i=html,js,python,react)
 
 ## art
 ![](https://skillicons.dev/icons?i=figma,blender,cripstudio)
@@ -34,4 +34,5 @@ RucioleWind8189/ルシオル です。
 
 
 
-last change  ： 2025/10/16
+last change : 2026/08/25
+<!-- last change  ： 2025/10/16 -->
